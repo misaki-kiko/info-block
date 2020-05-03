@@ -1,4 +1,9 @@
-
+*{
+    margin: 0;
+}
+h1{
+    margin: 0;
+}
 .info-block {
     float: right;
     margin-right: 10px;
